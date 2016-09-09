@@ -1,0 +1,18 @@
+c:\users\szakolczai martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\bin\Debug\MondayDriver.exe.config
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\bin\Debug\MondayDriver.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\bin\Debug\MondayDriver.pdb
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\obj\Debug\MondayDriver.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\obj\Debug\MondayDriver.Form1.resources
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\obj\Debug\MondayDriver.Properties.Resources.resources
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\obj\Debug\MondayDriver.csproj.GenerateResource.Cache
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\obj\Debug\MondayDriver.exe
+C:\Users\Szakolczai Martin\documents\visual studio 2015\Projects\MondayDriver\MondayDriver\obj\Debug\MondayDriver.pdb
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\bin\Debug\MondayDriver.exe.config
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.exe
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.pdb
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\bin\Debug\MondayDriver.exe
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\bin\Debug\MondayDriver.pdb
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.csprojResolveAssemblyReference.cache
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.Form1.resources
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.Properties.Resources.resources
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.csproj.GenerateResource.Cache

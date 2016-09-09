@@ -1,0 +1,9 @@
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\bin\Debug\MondayDriver.exe.config
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\bin\Debug\MondayDriver.exe
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\bin\Debug\MondayDriver.pdb
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.Form1.resources
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.Properties.Resources.resources
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MP3Tagger.csproj.GenerateResource.Cache
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.exe
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MondayDriver.pdb
+C:\Users\Szakolczai Martin\Desktop\Új mappa\MondayDriver\obj\Debug\MP3Tagger.csprojResolveAssemblyReference.cache
